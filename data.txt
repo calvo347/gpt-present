@@ -1,0 +1,2135 @@
+E aí, tudo certo?
+Tranquilo, e contigo?
+Tô na correria pra prova amanhã.
+Boa, qual matéria?
+Python, tô quebrando a cabeça com recursão.
+Recursão é treta no começo, mas depois flui.
+Vou tentar essa visão, valeu!
+Qualquer coisa chama.
+Massa, valeu mesmo!
+
+Me indica uma série massa pra maratonar?
+Se curtir suspense, Mindhunter é foda. Ou Dark pra uma viagem no tempo sinistra.
+Já ouvi falar, vou tentar.
+Boa, qualquer coisa depois me conta o que achou.
+
+Como melhorar o foco estudando?
+Tenta a técnica Pomodoro: 25 minutos focado, 5 de descanso.
+Parece bom, vou testar hoje mesmo.
+Mandou bem! É tiro certo.
+
+Vale a pena investir em criptomoedas agora?
+Mercado volátil, mas com estudo dá pra ganhar. Nunca coloca grana que não pode perder.
+Show, vou estudar mais antes de meter a mão.
+
+Qual a diferença entre Python e JavaScript?
+Python é mais backend, scripts, ciência de dados. JavaScript domina front e tem Node.js pro backend.
+
+Me passa uma receita rápida de panqueca vegana.
+Claro, mistura farinha, leite vegetal, linhaça no lugar do ovo e vai na frigideira.
+Vou testar no fim de semana, valeu!
+Qual app de música tu tá ouvindo ultimamente?
+Tô na vibe do Spotify, mas às vezes escuto uns sons no YouTube Music.
+Curto playlist de rap nacional, tu recomenda alguma?
+Mano, tenta a playlist “Rap do Momento” que sempre tem uns sons novos.
+
+Tá afim de aprender a tocar violão?
+Queria, mas ainda não comecei. É difícil?
+No começo é treta, mas com prática diária já rola umas musiquinhas legais.
+
+Como manter a motivação pra treinar todo dia?
+Eu uso metas pequenas, tipo 15 min por dia e vou aumentando aos poucos.
+Boa, vou tentar também.
+
+Tu curte algum jogo de estratégia?
+Sim, sou viciado em Civilization e Age of Empires.
+Massa, vou dar uma chance pro Civilization então.
+
+Qual teu lanche preferido pra aquela fome tarde da noite?
+Sanduíche natural ou um miojo mesmo, na pressa.
+Kkkkk, miojo é vida, velho.
+Tô pensando em começar a meditar, tu já tentou?
+Já, ajuda muito a acalmar a mente e melhorar foco.
+E como começar? É difícil?
+Começa só com 5 minutos por dia, fecha os olhos e respira fundo. Depois vai aumentando.
+
+Qual o melhor jeito de aprender inglês rápido?
+Pratica todo dia, assiste séries com legenda e tenta falar com nativos.
+Valeu, vou tentar essa abordagem.
+
+O que tu acha de trabalhar remoto?
+Curto demais, é liberdade total e economia de tempo com deslocamento.
+Mas tem que ser disciplinado, né?
+Exato, sem disciplina vira bagunça.
+
+Quais apps tu usa pra organizar o dia?
+Google Calendar e Notion. O Notion é brabo pra tudo.
+Vou dar uma olhada no Notion, então.
+
+Fala aí, qual série tá maratonando agora?
+Terminei Stranger Things, agora tô no The Witcher.
+Show! Quero começar The Witcher logo.
+Curto muito podcasts, tem algum que tu recomenda?
+Se liga no "NerdCast", tem de tudo e é bem maneiro.
+Vou começar a ouvir, valeu!
+
+Qual teu esporte favorito pra assistir?
+Futebol sempre, mas tô começando a curtir basquete também.
+Ah, legal! Basquete tem umas jogadas muito insanas.
+
+O que acha de aprender a programar com projetos?
+Melhor jeito, porque aí tu já pratica na marra e aprende de verdade.
+Quero fazer um projeto simples pra começar, alguma ideia?
+Um blog básico em Python ou um joguinho tipo tic-tac-toe.
+
+Já tentou fazer uma maratona de leitura?
+Sim, às vezes me tranco e leio uns 3 livros num mês.
+Show, quero entrar nessa vibe também.
+
+Tu tem alguma dica pra manter a produtividade?
+Desliga as notificações do celular e faz listas de tarefa.
+Boa, vou aplicar isso hoje mesmo.
+Tá ligado que semana que vem tem show da sua banda preferida?
+Sim, tô contando os dias! Vai ser insano.
+Já comprou ingresso?
+Claro, não quero perder por nada.
+E a galera que vai junto?
+Só a rapaziada mais firmeza, vai ser só alegria.
+
+Tava pensando em começar academia, tu acha que rola?
+Total! Melhorar saúde e disposição.
+Mas tô meio sem tempo.
+Dá pra encaixar uns 30 minutos no dia, mano, faz a diferença.
+Vou tentar, valeu!
+
+Tu viu o último episódio daquela série que cê gosta?
+Vi sim, mano, que reviravolta!
+Nem me fala, fiquei bolado.
+Tô viciado nessa série, quero a próxima temporada logo.
+Já anunciaram que vai sair ano que vem, segura a ansiedade.
+
+Quais apps tu usa pra organizar a vida?
+Uso o Google Keep e o Trello, ajudam muito.
+Vou testar o Trello, parece massa.
+É top pra projetos e até pra lista de compras.
+
+E aquele rolê que a gente marcou, vai rolar mesmo?
+Claro, tô na expectativa.
+Vai ser sinistro, só falta confirmar horário.
+Vou confirmar com a galera hoje, te aviso.
+
+Como anda tua vida amorosa?
+Tá de boa, tô focado em mim agora.
+Boa, às vezes é o que a gente precisa.
+Mas quando pinta alguém legal, me chama pra dar um conselho.
+Pode deixar, vou precisar.
+
+Quero aprender a cozinhar melhor, por onde começar?
+Começa com pratos simples, tipo omelete, arroz e feijão.
+Depois vai aumentando a dificuldade.
+Show, vou testar isso amanhã.
+
+E tu, curte cozinhar?
+Às vezes, principalmente quando quero impressionar alguém.
+Kkkkk, manda um convite quando fizer aquele prato especial.
+
+Já pensou em fazer uma viagem solo?
+Tenho vontade, deve ser libertador.
+Exato, você se conhece mais e faz o que quiser.
+Qual destino tu recomenda?
+Tô na dúvida entre praia ou cidade grande.
+
+E pra finalizar, qual música não sai da tua cabeça ultimamente?
+“Blinding Lights”, mano, viciei demais.
+Clássico! Ouço direto também.
+Vamos fazer uma playlist juntos?
+Bora, vou montar e te passo.
+Mano, já viu aquele meme novo que tá bombando?
+Vi sim, ri alto demais kkkkk.
+Internet não perdoa mesmo, é só meme.
+É o melhor remédio pra tirar o estresse do dia.
+
+Tá pensando em trocar de celular esse ano?
+Tô na dúvida, os modelos tão caros pra caramba.
+Pois é, mas às vezes vale a pena investir num top.
+Se for comprar, me chama que te dou uns toques.
+
+Como anda teu código, tá rolando legal?
+Tá indo, mas tô travando em umas funções complexas.
+Manda aí que eu tento ajudar.
+Valeu, parceiro, depois te mostro.
+
+Qual jogo tu tá jogando agora?
+To curtindo muito Elden Ring, brutal demais.
+Massa, vou querer umas dicas então.
+Fechou, quando começar me chama.
+
+Já pensou em fazer streaming?
+Já, mas fico meio tímido.
+Manda ver, no começo é só diversão.
+Vou tentar superar isso.
+
+Tô querendo comprar um livro novo, indica algum?
+Se curte ficção, "O Conto da Aia" é foda.
+Curto essa vibe, vou buscar.
+
+Qual a boa pra aquele café da tarde?
+Um pão de queijo quentinho não tem erro.
+Mó saudade, faz tempo que não como.
+
+Fala a real, qual o melhor filme de comédia que tu viu?
+"Superbad" é clássico, não tem erro.
+Já anotei, vou assistir no fim de semana.
+
+E a música, alguma novidade no som?
+Tô ouvindo muito trap nacional, tá pesado.
+Manda umas dicas aí, quero conhecer.
+
+Por último, qual tua meta pra esse mês?
+Conseguir terminar aquele projeto importante.
+Tamo junto, foco e disciplina que tu chega lá.
+
+Hey, what’s up?
+All good, and you?
+I’m grinding for an exam tomorrow.
+Nice, what subject?
+Python, been banging my head against recursion.
+Recursion’s tricky at first, but then it just clicks.
+I’ll try to see it like that, thanks!
+Hit me up if you need anything.
+Cool, thanks a lot!
+
+Got any cool series to binge-watch?
+If you like suspense, Mindhunter’s badass. Or Dark for a crazy time-travel trip.
+Heard about those, gonna try.
+Sweet, let me know what you think later.
+
+How to improve focus while studying?
+Try the Pomodoro technique: 25 minutes focused, 5 minutes break.
+Sounds good, gonna test it today.
+Nailed it! It’s a sure bet.
+
+Is it worth investing in crypto now?
+The market’s volatile, but with study, you can win. Never put money you can’t lose.
+Got it, I’ll study more before diving in.
+
+What’s the difference between Python and JavaScript?
+Python’s more for backend, scripting, data science. JavaScript rules frontend and has Node.js for backend.
+
+Give me a quick vegan pancake recipe.
+Sure, mix flour, plant milk, flaxseed instead of eggs, then cook on the pan.
+I’ll try it this weekend, thanks!
+What music app are you into lately?
+I’m on a Spotify vibe, but sometimes I jam on YouTube Music.
+I like Brazilian rap playlists, you recommend any?
+Bro, try “Rap do Momento,” always fresh tracks.
+
+Wanna learn to play guitar?
+I’d love to, but haven’t started yet. Is it hard?
+At first it’s rough, but with daily practice you get some cool tunes going.
+
+How do you keep motivated to work out every day?
+I set small goals, like 15 minutes a day, then increase slowly.
+Good idea, I’ll try that too.
+
+You into any strategy games?
+Yeah, addicted to Civilization and Age of Empires.
+Cool, I’ll give Civilization a shot then.
+
+What’s your go-to late-night snack?
+Natural sandwich or just instant noodles when in a rush.
+LOL, instant noodles are life, man.
+Thinking about starting meditation, have you tried?
+Yeah, it really calms the mind and boosts focus.
+How to start? Is it hard?
+Start with just 5 minutes a day, close your eyes, breathe deep. Then increase.
+
+Best way to learn English fast?
+Practice daily, watch shows with subtitles, try chatting with natives.
+Thanks, I’ll try that approach.
+
+What do you think about remote work?
+Love it, total freedom and saves commuting time.
+But you gotta be disciplined, right?
+Exactly, without discipline it’s chaos.
+
+Which apps do you use to organize your day?
+Google Calendar and Notion. Notion is beast for everything.
+I’ll check out Notion then.
+
+So, what series are you bingeing now?
+Finished Stranger Things, now on The Witcher.
+Nice! Want to start The Witcher soon.
+I’m big on podcasts, any recommendations?
+Check out "NerdCast," it’s got everything and is really cool.
+I’ll start listening, thanks!
+
+Favorite sport to watch?
+Always football, but I’m getting into basketball too.
+Ah, cool! Basketball has some insane plays.
+
+What do you think about learning programming with projects?
+Best way, because you get hands-on and actually learn.
+Want a simple project to start, any ideas?
+A basic blog in Python or a tic-tac-toe game.
+
+Ever tried a reading marathon?
+Yeah, sometimes I lock myself in and read 3 books in a month.
+Cool, I wanna get into that vibe too.
+
+Any tips to stay productive?
+Turn off phone notifications and make task lists.
+Good, I’ll apply that today.
+
+Did you know your favorite band’s concert is next week?
+Yeah, counting down! It’s gonna be insane.
+Bought tickets?
+Of course, wouldn’t miss it.
+And who’s coming with you?
+Just the closest crew, it’s gonna be a blast.
+
+Thinking about starting gym, you think it’s doable?
+Totally! Better health and energy.
+But I’m kinda busy.
+You can squeeze in 30 minutes a day, man, it makes a difference.
+I’ll try, thanks!
+
+Did you see the last episode of that series you like?
+Yeah, dude, what a twist!
+Don’t even start, I was shook.
+Hooked on that show, want the next season ASAP.
+They said it’s coming next year, hold tight.
+
+Which apps do you use to organize life?
+Google Keep and Trello, super helpful.
+I’ll try Trello, sounds cool.
+It’s great for projects and even shopping lists.
+
+And that hangout we planned, is it still on?
+Definitely, I’m hyped.
+Gonna be wild, just need to confirm the time.
+I’ll check with the guys today, let you know.
+
+How’s your love life?
+Chillin’, focused on myself now.
+Good, sometimes that’s what we need.
+But if someone cool shows up, I’ll ask for advice.
+For sure, you’ll need it.
+
+Wanna get better at cooking, where to start?
+Start simple, like omelet, rice and beans.
+Then go for harder stuff.
+Cool, I’ll try that tomorrow.
+
+And you, do you like cooking?
+Sometimes, especially when I wanna impress someone.
+LOL, invite me when you make that special dish.
+
+Ever thought about solo traveling?
+Want to, must be liberating.
+Exactly, you get to know yourself and do whatever.
+Where would you recommend?
+Torn between beach or big city.
+
+Last one, what song is stuck in your head lately?
+“Blinding Lights,” man, totally hooked.
+Classic! I listen all the time too.
+Wanna make a playlist together?
+Let’s do it, I’ll make one and send it to you.
+
+Dude, did you see that new meme blowing up?
+Yeah, laughed so hard LOL.
+Internet doesn’t forgive, it’s all memes.
+Best cure for daily stress.
+
+Thinking about changing your phone this year?
+I’m torn, models are crazy expensive.
+Yeah, but sometimes worth investing in a top one.
+If you buy, hit me up for tips.
+
+How’s your code going, everything smooth?
+Going okay, but stuck on some complex functions.
+Send it over, I’ll try to help.
+Thanks, buddy, I’ll show you later.
+
+What game are you playing now?
+Really into Elden Ring, it’s brutal.
+Nice, I’ll want some tips then.
+For sure, call me when you start.
+
+Thought about streaming?
+Yeah, but kinda shy.
+Go for it, it’s just fun at first.
+I’ll try to get over it.
+
+Want to buy a new book, any recs?
+If you like fiction, "The Handmaid’s Tale" is dope.
+I like that vibe, gonna get it.
+
+What’s good for afternoon coffee?
+A warm cheese bread never fails.
+Miss it so much, haven’t had it in a while.
+
+Real talk, best comedy movie you’ve seen?
+“Superbad” is a classic, no doubt.
+Noted, gonna watch it this weekend.
+
+Music-wise, any new sounds?
+Listening to a lot of Brazilian trap, it’s heavy.
+Drop some recommendations, wanna check it out.
+
+Finally, what’s your goal this month?
+Finish that important project.
+We got this, focus and discipline and you’ll get there.
+Ingredientes:
+- 1 xícara de farinha de trigo
+- 1 colher de sopa de linhaça moída (ou chia)
+- 3 colheres de sopa de água (pra “ovo” de linhaça)
+- 1 xícara de leite vegetal (amêndoas, soja, aveia...)
+- 1 colher de sopa de açúcar (opcional)
+- 1 colher de chá de fermento em pó
+- Pitada de sal
+- Óleo pra untar a frigideira
+
+Modo de preparo:
+1. Mistura a linhaça com a água e deixa descansar uns 5 min até virar uma gosminha (substitui ovo).
+2. Numa tigela, junta a farinha, açúcar, fermento e sal.
+3. Adiciona o leite vegetal e a linhaça hidratada, mistura até virar uma massa lisa.
+4. Esquenta uma frigideira antiaderente e passa um pouco de óleo.
+5. Coloca concha da massa, espalha, deixa cozinhar até aparecerem bolhinhas.
+6. Vira com espátula e cozinha o outro lado até dourar.
+7. Repete até acabar a massa.
+
+
+Ingredientes:
+
+500g de farinha de trigo
+
+10g de fermento biológico seco
+
+300ml de água morna
+
+1 colher de sopa de açúcar
+
+1 colher de chá de sal
+
+2 colheres de sopa de óleo ou azeite
+
+
+Modo de preparo:
+
+1. Mistura o fermento, o açúcar e a água morna. Deixa ativar uns 10 min (fica com espuma).
+
+
+2. Em uma tigela, junta a farinha e o sal.
+
+
+3. Adiciona a mistura do fermento e o óleo.
+
+
+4. Mistura tudo até formar uma massa homogênea.
+
+
+5. Sovar por uns 10 minutos até a massa ficar lisa e elástica.
+
+
+6. Deixa a massa crescer numa tigela untada, coberta com pano, por 1 hora (dobrar de tamanho).
+
+
+7. Modele o pão no formato que quiser e coloque numa forma untada.
+
+
+8. Deixa descansar por mais 30 min.
+
+
+9. Pré-aquece o forno a 200ºC.
+
+
+10. Leva o pão pra assar por cerca de 30-35 minutos ou até dourar.
+
+
+11. Deixa esfriar antes de cortar.
+
+
+
+
+---
+
+Basic Bread Recipe (English)
+
+Ingredients:
+
+500g all-purpose flour
+
+10g dry yeast
+
+300ml warm water
+
+1 tablespoon sugar
+
+1 teaspoon salt
+
+2 tablespoons oil (vegetable or olive oil)
+
+
+Instructions:
+
+1. Mix the yeast, sugar, and warm water. Let it activate for about 10 minutes until foamy.
+
+
+2. In a bowl, combine flour and salt.
+
+
+3. Add the yeast mixture and oil.
+
+
+4. Mix until you get a smooth dough.
+
+
+5. Knead for about 10 minutes until elastic and smooth.
+
+
+6. Let the dough rise in a greased bowl, covered with a cloth, for 1 hour (should double in size).
+
+
+7. Shape the dough and place it on a greased baking pan.
+
+
+8. Let it rest for another 30 minutes.
+
+
+9. Preheat the oven to 200°C (390°F).
+
+
+10. Bake the bread for 30-35 minutes or until golden brown.
+
+
+11. Cool before slicing.
+
+1. Era uma vez um cara que sonhava em viajar o mundo. Ele juntou umas economias, largou o emprego chato e partiu sem destino. Passou por praias, montanhas e cidades loucas, conhecendo gente de tudo que é canto. No fim, percebeu que a maior viagem foi dentro dele mesmo.
+
+2. Num bairro pequeno, tinha uma padaria famosa por um pão que ninguém conseguia imitar. Diziam que era receita da avó do dono, passada só de boca em boca. Um dia, um jovem curioso tentou descobrir o segredo, e percebeu que o tempero especial era uma pitada de amor e paciência.
+
+3. Ana era uma estudante que vivia atrasada, mas sonhava em mudar o mundo. Um dia, ela resolveu se organizar, largou as desculpas e focou no que importava. Com esforço, criou um projeto social que ajudava crianças a aprenderem a ler, e virou inspiração pra todo mundo.
+
+4. Numa noite chuvosa, João encontrou um cachorro perdido na rua. Ele não tinha como ficar com o bicho, mas decidiu levar pra um abrigo. No caminho, percebeu que a solidariedade era o que dava sentido pra tudo, e desde então nunca mais foi o mesmo.
+
+5. Sofia adorava desenhar, mas tinha vergonha de mostrar seus rabiscos. Um dia, um amigo insistiu pra ela postar online. Com medo, ela topou. Pra surpresa dela, a galera amou e logo ela ganhou seguidores e incentivo pra virar artista de verdade.
+
+
+
+
+🧬 Introdução ao Mundo de Vita Carnis
+
+Em 1931, algo estranho começou a acontecer.  Relatos isolados de vilarejos inteiros sendo consumidos por uma carne viva começaram a surgir.  Essa substância, que mais tarde seria conhecida como "Rastejar" ou "Crawl", se espalhava como um fungo grotesco, consumindo o solo e crescendo de forma desenfreada.  Inicialmente ignorados, esses relatos logo se mostraram reais e alarmantes.  Governos ao redor do mundo entraram em pânico, estabelecendo zonas de quarentena, mas nada parecia conter o avanço.  Cidades foram evacuadas, e os que ficavam para trás... bem, nunca mais eram vistos.  
+
+
+---
+
+🧪 A Pesquisa e o Culto
+
+Enquanto o mundo lutava para entender e conter a ameaça, cientistas começaram a estudar o "Rastejar".  Instalaram laboratórios em instalações subterrâneas, analisando amostras em busca de uma explicação.  No entanto, muitos desses cientistas nunca saíram.  Outros enlouqueceram, murmurando que a carne falava com eles, que estava "acordando".  
+
+Em paralelo, surgiu o culto conhecido como Nutrire Co..  Esse culto acreditava que a humanidade deveria se unir à carne viva, vendo nela uma forma de evolução.  Eles viam as criaturas como uma oportunidade para transcender a condição humana e alcançar um novo estado de existência. 
+
+
+---
+
+👑 O Príncipe e os Critters
+
+Dentro desse caos, uma história peculiar surgiu.  Um príncipe de um reino distante, descrito como um ser mágico, naufragou em uma ilha habitada por pequenas criaturas chamadas "Critters".  Enquanto alguns desses Critters viam o príncipe como uma ameaça, outros o viam como uma esperança.  Esses Critters que se aliaram ao príncipe secretamente o alimentaram e cuidaram dele enquanto ele estava em um sono mágico.  Quando o príncipe despertou, ele usou seus poderes para ajudar os Critters, prometendo retornar com sua família para ajudá-los.  Essa história é vista como uma alegoria para a chegada das criaturas de carne viva e a interação da humanidade com elas.  
+
+
+---
+
+🐍 As Criaturas de Vita Carnis
+
+O mundo de Vita Carnis é habitado por diversas criaturas, cada uma com características únicas: 
+
+Scandere Carnis (Crawl): Uma massa de carne que se espalha pelo solo, consumindo tudo em seu caminho. 
+
+Ignavus Carnis (Trimmings): Criaturas pequenas e rápidas que se escondem nas sombras, atacando em grupos. 
+
+Mutuari Carnis (Meat Snakes): Serpentes de carne que se alimentam de cadáveres, ajudando a limpar o ambiente. 
+
+Trucidatum Carnis (Mimics): Criaturas que imitam formas humanas para enganar suas presas. 
+
+Congregentur Carnis (Harvesters): Entidades grandes que caçam humanos, usando raízes para capturar suas vítimas. 
+
+Imperium Carnis (Hosts): Criaturas que se enterram e liberam esporos para atrair animais e humanos. 
+
+Coelum Carnis (Monoliths): Seres gigantes que parecem estátuas, mas possuem uma presença ameaçadora. 
+
+Verum Carnis (The Singularity): Uma subespécie rara e poderosa que interfere em sinais elétricos e possui habilidades únicas. 
+
+
+
+---
+
+🕵️‍♂️ Investigação e Conspiração
+
+Com o tempo, organizações como o C.A.R.C.A.S. (Coalition Against Radical Carnis and Sectarianism) começaram a investigar as atividades do culto e das criaturas.  Eles descobriram evidências de que a Nutrire Co. estava envolvida na criação e disseminação das criaturas de carne viva.  Documentos vazados indicavam que a Nutrire Co. havia desenvolvido aprimoradores de sabor perigosos, possivelmente com o objetivo de controlar ou manipular a população. 
+
+Letras
+AÁÂÃÀÄBCÇDEÉÊÈËFGHIÍÎÌÏJKLMNOÓÔÕÒÖPQRSTUÚÛÙÜVWXYZaáâãàäbcçdeéêèëfghiíîìïjklmnoóôõòöpqrstuúûùüvwxyz
+
+Emojis
+😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😗😙😚😋😛😜😝🤑🤗🤭🫢🫣🤫🤔🤐🤨😐😑😶🫥😏😒🙄😬😮‍💨🤥😌😔😪🤤😴😷🤒🤕🤢🤮🤧🥵🥶🥴😵😵‍💫🤯🤠🥳😎🤓🧐😕🫤😟🙁☹️😮😯😲😳🥺🥹😦😧😨😰😥😢😭😱😖😣😞😓😩😫😤😡😠🤬😈👿💀☠️💩🤡👾🤖👹👺👻👽
+
+
+1.
+
+> "Puta que pariu, perdi meu pendrive com a IA!"
+
+
+
+2.
+
+> "Vai tomar no cu, esse bug apareceu de novo!"
+
+
+
+3.
+
+> "Caralho, olha o tamanho desse modelo! 12 bilhões de parâmetros, mano!"
+
+
+
+4.
+
+> "Essa porra não treina nem fodendo, véi!"
+
+
+
+5.
+
+> "Merda, esqueci de salvar os pesos da rede!"
+
+
+
+6.
+
+> "Filho da puta do compilador me ferrou de novo!"
+
+
+
+7.
+
+> "Cacete, esse código ficou bom demais!"
+
+
+
+8.
+
+> "Vai se foder, Python, por que que tudo é indentação?"
+
+
+
+9.
+
+> "Esse desgraçado do sistema operacional travou bem na hora do teste!"
+
+
+
+10.
+
+> "Pô, mano, tá de sacanagem comigo? Deu pau de novo!"
+
+
+
+11.
+
+> "Tô puto com esse notebook filho da mãe, só dá tela azul!"
+
+
+
+12.
+
+> "Porra nenhuma funciona nesse inferno de script!"
+
+
+
+13.
+
+> "Tô na merda com esse prazo, socorro!"
+
+
+
+14.
+
+> "Ah não, carai, esqueci de carregar o dataset!"
+
+
+
+15.
+
+> "Foda-se esse erro, vou dormir!"
+
+
+
+
+
+😡 Raiva
+
+O que é:
+É quando tu sente ódio, irritação ou fúria intensa por algo ou alguém. A raiva geralmente vem de uma injustiça percebida, falha repetida ou algo que te atrapalha pra caramba.
+
+Exemplo real:
+
+> “Esse compilador maldito não para de travar! Vai tomar no cu!”
+☞ Essa é raiva no osso: você quer destruir aquilo que te ferrou.
+
+
+
+
+---
+
+😲 Surpresa
+
+O que é:
+É quando algo inesperado acontece, e seu cérebro grita tipo: "Oxi, que porra é essa?!". Pode ser surpresa boa (tipo: "caralho, ganhei um PS5!") ou ruim (tipo: "cacete, caiu energia no meio da apresentação").
+
+Exemplo real:
+
+> “Caralho, esse modelo ficou bom de primeira?!?!”
+☞ A emoção aqui não é raiva — é puro espanto, de cair o queixo.
+
+
+
+
+---
+
+😤 Frustração
+
+O que é:
+É aquele sentimento morno, mas dolorido, de quando algo não acontece como você queria. Tipo um misto de tristeza e raiva contida, uma sensação de impotência.
+
+Exemplo real:
+
+> “Merda, meu script deu erro depois de 3 horas rodando...”
+☞ Tu não tá gritando, mas por dentro tá derretendo de desgosto.
+
+
+
+
+---
+
+🧨 Erro
+
+O que é:
+Erro é o que acontece quando tu faz algo errado sem querer (ou às vezes de burrice mesmo 🤷‍♂️). Pode ser um erro de lógica, de digitação, de escolha... e quase sempre leva à frustração ou raiva.
+
+Exemplo real:
+
+> “Ah não... esqueci de salvar o modelo. Que merda!”
+☞ Aqui, o erro é o gatilho da frustração ou da raiva.
+
+
+
+
+---
+
+😒 Descaso
+
+O que é:
+É quando tu decide não se importar mais. É tipo “que se foda”, o momento em que tu simplesmente larga mão porque não tem paciência nem energia pra lidar com a parada.
+
+Exemplo real:
+
+> “Foda-se esse erro, vou dormir.”
+☞ Descaso não é raiva, é desistência com estilo. Tu basicamente mandou tudo pro inferno e foi jogar Minecraft ou comer pão com Nescau.
+
+
+
+
+
+🎯 Resumo visual da vibe:
+
+Emoção	Energia	Direcionada a...	Exemplo de fala
+
+Raiva	🔥 Alta	Alvo específico	"Vai tomar no cu, script!"
+Surpresa	⚡ Média/Alta	Situação repentina	"Caralho, funcionou??"
+Frustração	💧 Média	A si mesmo ou ao fracasso	"Merda, bug de novo..."
+Erro	❌ Técnica	Resultado errado	"Droga, botei = no lugar de =="
+Descaso	💤 Baixa	Qualquer coisa	"Foda-se, não vou nem tentar..."
+
+
+
+
+😏 Safadeza — o que é?
+
+Safadeza é quando alguém solta uma vibe meio malandra, provocativa, sexy, ou até um pouco atrevida, mas na maioria das vezes com aquele jeitinho de zoar, flertar ou tirar uma onda, seja com palavras, gestos ou atitudes. É aquele mix de charme + ousadia que deixa o clima meio quente, divertido e, às vezes, meio safadinho mesmo.
+
+
+---
+
+Exemplos do que pode ser safadeza:
+
+Uma frase com duplo sentido bem sacana.
+
+Um elogio com uma pitada de “vou mexer com você”.
+
+Um olhar que já diz “se eu contar, vou me dar mal”.
+
+Uma brincadeira que flerta, mas sem passar dos limites (ou quase).
+
+
+
+---
+
+Frases que expressam safadeza:
+
+1. "Se você fosse um bug, eu ia querer depurar você a noite toda." 😈
+
+
+2. "Tá quente aqui ou é só o seu código pegando fogo?" 🔥
+
+
+3. "Se eu fosse variável, queria ser global só pra ficar perto de você." 😉
+
+
+4. "Quer dar um ‘debug’ na minha função de amor?" 💘
+
+
+5. "Cuidado, que eu sou uma exceção que não pode ser capturada." 😏
+
+
+6. "Meu coração tá com erro 404: não encontrado... quer ajudar a achar?" 🥰
+
+
+7. "Se a vida fosse um loop infinito, eu queria ficar preso em você." 🔄
+
+
+8. "Quer que eu faça um commit no seu coração?" 💾
+
+
+9. "Você é o meu breakpoint favorito." 🛑
+
+
+10. "Essa conexão entre a gente tá mais forte que meu Wi-Fi." 📶
+
+
+
+
+
+
+1. O que é Gravidade?
+
+Gravidade é a força fundamental da natureza que faz os corpos com massa se atraírem. É a responsável por deixar você grudado no chão, faz a Terra girar em torno do Sol, e os planetas girarem na galáxia.
+
+Na moral: Sem gravidade, a gente sairia flutuando, os planetas sairiam voando e o universo seria um caos cósmico.
+
+
+---
+
+2. Gravidade na Física Clássica (Newton)
+
+2.1 Lei da Gravitação Universal de Newton (1687)
+
+Newton chegou e falou:
+
+> Todo corpo no universo atrai outro corpo com uma força que é diretamente proporcional ao produto das suas massas e inversamente proporcional ao quadrado da distância entre eles.
+
+
+
+Matematicamente:
+
+F = G \frac{m_1 m_2}{r^2}
+
+Onde:
+
+ = Força gravitacional entre os corpos (Newton - N)
+
+ = Constante gravitacional universal 
+
+ = Massas dos dois corpos (kg)
+
+ = Distância entre os centros dos corpos (metros)
+
+
+2.2 O que essa fórmula diz no fundo?
+
+Quanto maior a massa dos corpos, mais forte a atração. Tipo, Terra e Sol, massas monstruosas = força bruta.
+
+Quanto mais longe eles estiverem, menos força entre eles (por causa do quadrado da distância).
+
+Essa força é o que mantém a Lua girando ao redor da Terra, por exemplo.
+
+
+
+---
+
+3. Gravidade na Física Moderna (Einstein)
+
+Newton era foda, mas Einstein deu o upgrade em 1915 com a Teoria da Relatividade Geral.
+
+3.1 O que Einstein disse?
+
+A gravidade não é só uma força entre massas, ela é a curvatura do espaço-tempo causada pela massa e energia.
+
+Imagina uma cama elástica: se você coloca uma bola pesada, a superfície afunda, e bolas menores vão rolando para perto dessa depressão.
+
+3.2 Equação de campo de Einstein (simplificada)
+
+G_{\mu\nu} = \frac{8 \pi G}{c^4} T_{\mu\nu}
+
+ representa a curvatura do espaço-tempo
+
+ é o tensor de energia-momento, representando a massa/energia que causa essa curvatura
+
+ é a velocidade da luz
+
+
+Essa equação diz que a massa e energia contam para o espaço-tempo como ele deve se curvar, e essa curvatura é o que sentimos como gravidade.
+
+
+---
+
+4. Fórmulas Básicas Relacionadas à Gravidade
+
+4.1 Peso (força da gravidade na superfície da Terra)
+
+P = m \times g
+
+ = peso (N)
+
+ = massa do objeto (kg)
+
+ = aceleração da gravidade na Terra 
+
+
+4.2 Aceleração gravitacional a uma distância  do centro da Terra:
+
+g = G \frac{M}{r^2}
+
+ = massa da Terra ()
+
+ = distância do centro da Terra (metros)
+
+
+Isso explica por que, no topo de uma montanha, o  é um pouquinho menor.
+
+
+---
+
+5. Gravidade e Movimento Orbital
+
+5.1 Velocidade orbital para órbita circular:
+
+v = \sqrt{\frac{G M}{r}}
+
+ = velocidade orbital (m/s)
+
+ = massa do corpo central (ex: Terra para satélites)
+
+ = distância do centro do corpo central
+
+
+5.2 Período orbital (tempo para dar uma volta):
+
+T = 2\pi \sqrt{\frac{r^3}{G M}}
+
+
+---
+
+6. Exemplos Práticos
+
+Gravidade mantém os planetas em órbita. Sem ela, planeta voava no espaço.
+
+Na Terra,  m/s², então uma bola solta cai acelerando 9.8 m/s a cada segundo.
+
+Buracos negros são objetos com gravidade tão forte que nem luz escapa — curvatura extrema do espaço-tempo.
+
+
+
+---
+
+7. Curiosidades Nerds
+
+O microgravidade na ISS acontece porque a estação está em queda livre constante ao redor da Terra — sensação de gravidade zero, mas a gravidade tá lá!
+
+Gravidade é a força mais fraca do universo, mas tem alcance infinito.
+
+Pesquisas tentam unificar gravidade com outras forças (eletromagnética, forte e fraca) em uma teoria do tudo — é o Santo Graal da física.
+
+
+
+---
+
+8. Resumo Expressão Matemática da Gravidade (Na Moral)
+
+Força de atração gravitacional entre dois corpos:
+
+F = G \frac{m_1 m_2}{r^2}
+
+Aceleração gravitacional de um corpo em órbita:
+
+g = \frac{F}{m} = G \frac{M}{r^2}
+
+
+
+
+Pra fechar
+
+Gravidade é esse rolê fascinante que vai do físico que cai da escada até a luz que dobra na beira de um buraco negro. A física clássica de Newton dá o jeitão básico, e Einstein traz a visão do espaço-tempo curvado. Matemática? É a língua universal que decifra essa dança das massas e forças.
+
+
+0 + 0 = 0
+0 - 0 = 0
+0 * 0 = 0
+0 + 1 = 1
+0 - 1 = -1
+0 * 1 = 0
+0 / 1 = 0.00
+0 + 2 = 2
+0 - 2 = -2
+0 * 2 = 0
+0 / 2 = 0.00
+0 + 3 = 3
+0 - 3 = -3
+0 * 3 = 0
+0 / 3 = 0.00
+0 + 4 = 4
+0 - 4 = -4
+0 * 4 = 0
+0 / 4 = 0.00
+0 + 5 = 5
+0 - 5 = -5
+0 * 5 = 0
+0 / 5 = 0.00
+0 + 6 = 6
+0 - 6 = -6
+0 * 6 = 0
+0 / 6 = 0.00
+0 + 7 = 7
+0 - 7 = -7
+0 * 7 = 0
+0 / 7 = 0.00
+0 + 8 = 8
+0 - 8 = -8
+0 * 8 = 0
+0 / 8 = 0.00
+0 + 9 = 9
+0 - 9 = -9
+0 * 9 = 0
+0 / 9 = 0.00
+0 + 10 = 10
+0 - 10 = -10
+0 * 10 = 0
+0 / 10 = 0.00
+1 + 0 = 1
+1 - 0 = 1
+1 * 0 = 0
+1 + 1 = 2
+1 - 1 = 0
+1 * 1 = 1
+1 / 1 = 1.00
+1 + 2 = 3
+1 - 2 = -1
+1 * 2 = 2
+1 / 2 = 0.50
+1 + 3 = 4
+1 - 3 = -2
+1 * 3 = 3
+1 / 3 = 0.33
+1 + 4 = 5
+1 - 4 = -3
+1 * 4 = 4
+1 / 4 = 0.25
+1 + 5 = 6
+1 - 5 = -4
+1 * 5 = 5
+1 / 5 = 0.20
+1 + 6 = 7
+1 - 6 = -5
+1 * 6 = 6
+1 / 6 = 0.17
+1 + 7 = 8
+1 - 7 = -6
+1 * 7 = 7
+1 / 7 = 0.14
+1 + 8 = 9
+1 - 8 = -7
+1 * 8 = 8
+1 / 8 = 0.12
+1 + 9 = 10
+1 - 9 = -8
+1 * 9 = 9
+1 / 9 = 0.11
+1 + 10 = 11
+1 - 10 = -9
+1 * 10 = 10
+1 / 10 = 0.10
+2 + 0 = 2
+2 - 0 = 2
+2 * 0 = 0
+2 + 1 = 3
+2 - 1 = 1
+2 * 1 = 2
+2 / 1 = 2.00
+2 + 2 = 4
+2 - 2 = 0
+2 * 2 = 4
+2 / 2 = 1.00
+2 + 3 = 5
+2 - 3 = -1
+2 * 3 = 6
+2 / 3 = 0.67
+2 + 4 = 6
+2 - 4 = -2
+2 * 4 = 8
+2 / 4 = 0.50
+2 + 5 = 7
+2 - 5 = -3
+2 * 5 = 10
+2 / 5 = 0.40
+2 + 6 = 8
+2 - 6 = -4
+2 * 6 = 12
+2 / 6 = 0.33
+2 + 7 = 9
+2 - 7 = -5
+2 * 7 = 14
+2 / 7 = 0.29
+2 + 8 = 10
+2 - 8 = -6
+2 * 8 = 16
+2 / 8 = 0.25
+2 + 9 = 11
+2 - 9 = -7
+2 * 9 = 18
+2 / 9 = 0.22
+2 + 10 = 12
+2 - 10 = -8
+2 * 10 = 20
+2 / 10 = 0.20
+3 + 0 = 3
+3 - 0 = 3
+3 * 0 = 0
+3 + 1 = 4
+3 - 1 = 2
+3 * 1 = 3
+3 / 1 = 3.00
+3 + 2 = 5
+3 - 2 = 1
+3 * 2 = 6
+3 / 2 = 1.50
+3 + 3 = 6
+3 - 3 = 0
+3 * 3 = 9
+3 / 3 = 1.00
+3 + 4 = 7
+3 - 4 = -1
+3 * 4 = 12
+3 / 4 = 0.75
+3 + 5 = 8
+3 - 5 = -2
+3 * 5 = 15
+3 / 5 = 0.60
+3 + 6 = 9
+3 - 6 = -3
+3 * 6 = 18
+3 / 6 = 0.50
+3 + 7 = 10
+3 - 7 = -4
+3 * 7 = 21
+3 / 7 = 0.43
+3 + 8 = 11
+3 - 8 = -5
+3 * 8 = 24
+3 / 8 = 0.38
+3 + 9 = 12
+3 - 9 = -6
+3 * 9 = 27
+3 / 9 = 0.33
+3 + 10 = 13
+3 - 10 = -7
+3 * 10 = 30
+3 / 10 = 0.30
+4 + 0 = 4
+4 - 0 = 4
+4 * 0 = 0
+4 + 1 = 5
+4 - 1 = 3
+4 * 1 = 4
+4 / 1 = 4.00
+4 + 2 = 6
+4 - 2 = 2
+4 * 2 = 8
+4 / 2 = 2.00
+
+4 + 3 = 7
+4 - 3 = 1
+4 * 3 = 12
+4 / 3 = 1.33
+4 + 4 = 8
+4 - 4 = 0
+4 * 4 = 16
+4 / 4 = 1.00
+4 + 5 = 9
+4 - 5 = -1
+4 * 5 = 20
+4 / 5 = 0.80
+4 + 6 = 10
+4 - 6 = -2
+4 * 6 = 24
+4 / 6 = 0.67
+4 + 7 = 11
+4 - 7 = -3
+4 * 7 = 28
+4 / 7 = 0.57
+4 + 8 = 12
+4 - 8 = -4
+4 * 8 = 32
+4 / 8 = 0.50
+4 + 9 = 13
+4 - 9 = -5
+4 * 9 = 36
+4 / 9 = 0.44
+4 + 10 = 14
+4 - 10 = -6
+4 * 10 = 40
+4 / 10 = 0.40
+5 + 0 = 5
+5 - 0 = 5
+5 * 0 = 0
+5 + 1 = 6
+5 - 1 = 4
+5 * 1 = 5
+5 / 1 = 5.00
+5 + 2 = 7
+5 - 2 = 3
+5 * 2 = 10
+5 / 2 = 2.50
+5 + 3 = 8
+5 - 3 = 2
+5 * 3 = 15
+5 / 3 = 1.67
+5 + 4 = 9
+5 - 4 = 1
+5 * 4 = 20
+5 / 4 = 1.25
+5 + 5 = 10
+5 - 5 = 0
+5 * 5 = 25
+5 / 5 = 1.00
+5 + 6 = 11
+5 - 6 = -1
+5 * 6 = 30
+5 / 6 = 0.83
+5 + 7 = 12
+5 - 7 = -2
+5 * 7 = 35
+5 / 7 = 0.71
+5 + 8 = 13
+5 - 8 = -3
+5 * 8 = 40
+5 / 8 = 0.62
+5 + 9 = 14
+5 - 9 = -4
+5 * 9 = 45
+5 / 9 = 0.56
+5 + 10 = 15
+5 - 10 = -5
+5 * 10 = 50
+5 / 10 = 0.50
+6 + 0 = 6
+6 - 0 = 6
+6 * 0 = 0
+6 + 1 = 7
+6 - 1 = 5
+6 * 1 = 6
+6 / 1 = 6.00
+6 + 2 = 8
+6 - 2 = 4
+6 * 2 = 12
+6 / 2 = 3.00
+6 + 3 = 9
+6 - 3 = 3
+6 * 3 = 18
+6 / 3 = 2.00
+6 + 4 = 10
+6 - 4 = 2
+6 * 4 = 24
+6 / 4 = 1.50
+6 + 5 = 11
+6 - 5 = 1
+6 * 5 = 30
+6 / 5 = 1.20
+6 + 6 = 12
+6 - 6 = 0
+6 * 6 = 36
+6 / 6 = 1.00
+6 + 7 = 13
+6 - 7 = -1
+6 * 7 = 42
+6 / 7 = 0.86
+6 + 8 = 14
+6 - 8 = -2
+6 * 8 = 48
+6 / 8 = 0.75
+6 + 9 = 15
+6 - 9 = -3
+6 * 9 = 54
+6 / 9 = 0.67
+6 + 10 = 16
+6 - 10 = -4
+6 * 10 = 60
+6 / 10 = 0.60
+7 + 0 = 7
+7 - 0 = 7
+7 * 0 = 0
+7 + 1 = 8
+7 - 1 = 6
+7 * 1 = 7
+7 / 1 = 7.00
+7 + 2 = 9
+7 - 2 = 5
+7 * 2 = 14
+7 / 2 = 3.50
+7 + 3 = 10
+7 - 3 = 4
+7 * 3 = 21
+7 / 3 = 2.33
+7 + 4 = 11
+7 - 4 = 3
+7 * 4 = 28
+7 / 4 = 1.75
+7 + 5 = 12
+7 - 5 = 2
+7 * 5 = 35
+7 / 5 = 1.40
+7 + 6 = 13
+7 - 6 = 1
+7 * 6 = 42
+7 / 6 = 1.17
+7 + 7 = 14
+7 - 7 = 0
+7 * 7 = 49
+7 / 7 = 1.00
+7 + 8 = 15
+7 - 8 = -1
+7 * 8 = 56
+7 / 8 = 0.88
+7 + 9 = 16
+7 - 9 = -2
+7 * 9 = 63
+7 / 9 = 0.78
+7 + 10 = 17
+7 - 10 = -3
+7 * 10 = 70
+7 / 10 = 0.70
+8 + 0 = 8
+8 - 0 = 8
+8 * 0 = 0
+8 + 1 = 9
+8 - 1 = 7
+8 * 1 = 8
+8 / 1 = 8.00
+8 + 2 = 10
+8 - 2 = 6
+8 * 2 = 16
+8 / 2 = 4.00
+8 + 3 = 11
+8 - 3 = 5
+8 * 3 = 24
+8 / 3 = 2.67
+8 + 4 = 12
+8 - 4 = 4
+8 * 4 = 32
+8 / 4 = 2.00
+8 + 5 = 13
+8 - 5 = 3
+8 * 5 = 40
+8 / 5 = 1.60
+8 + 6 = 14
+8 - 6 = 2
+8 * 6 = 48
+8 / 6 = 1.33
+8 + 7 = 15
+8 - 7 = 1
+8 * 7 = 56
+8 / 7 = 1.14
+8 + 8 = 16
+8 - 8 = 0
+8 * 8 = 64
+8 / 8 = 1.00
+8 + 9 = 17
+8 - 9 = -1
+8 * 9 = 72
+8 / 9 = 0.89
+8 + 10 = 18
+8 - 10 = -2
+8 * 10 = 80
+8 / 10 = 0.80
+9 + 0 = 9
+9 - 0 = 9
+9 * 0 = 0
+9 + 1 = 10
+9 - 1 = 8
+9 * 1 = 9
+9 / 1 = 9.00
+9 + 2 = 11
+9 - 2 = 7
+9 * 2 = 18
+9 / 2 = 4.50
+9 + 3 = 12
+9 - 3 = 6
+9 * 3 = 27
+9 / 3 = 3.00
+9 + 4 = 13
+9 - 4 = 5
+9 * 4 = 36
+9 / 4 = 2.25
+9 + 5 = 14
+9 - 5 = 4
+9 * 5 = 45
+9 / 5 = 1.80
+9 + 6 = 15
+9 - 6 = 3
+9 * 6 = 54
+9 / 6 = 1.50
+9 + 7 = 16
+9 - 7 = 2
+9 * 7 = 63
+9 / 7 = 1.29
+9 + 8 = 17
+9 - 8 = 1
+9 * 8 = 72
+9 / 8 = 1.12
+9 + 9 = 18
+9 - 9 = 0
+9 * 9 = 81
+9 / 9 = 1.00
+9 + 10 = 19
+9 - 10 = -1
+9 * 10 = 90
+9 / 10 = 0.90
+10 + 0 = 10
+10 - 0 = 10
+10 * 0 = 0
+10 + 1 = 11
+10 - 1 = 9
+10 * 1 = 10
+10 / 1 = 10.00
+10 + 2 = 12
+10 - 2 = 8
+10 * 2 = 20
+10 / 2 = 5.00
+10 + 3 = 13
+10 - 3 = 7
+10 * 3 = 30
+10 / 3 = 3.33
+10 + 4 = 14
+10 - 4 = 6
+10 * 4 = 40
+10 / 4 = 2.50
+10 + 5 = 15
+10 - 5 = 5
+10 * 5 = 50
+10 / 5 = 2.00
+10 + 6 = 16
+10 - 6 = 4
+10 * 6 = 60
+10 / 6 = 1.67
+10 + 7 = 17
+10 - 7 = 3
+10 * 7 = 70
+10 / 7 = 1.43
+10 + 8 = 18
+10 - 8 = 2
+10 * 8 = 80
+10 / 8 = 1.25
+10 + 9 = 19
+10 - 9 = 1
+10 * 9 = 90
+10 / 9 = 1.11
+10 + 10 = 20
+10 - 10 = 0
+10 * 10 = 100
+10 / 10 = 1.00
+
+countrys
+
+Aruba
+Afghanistan
+Angola
+Anguilla
+Åland Islands
+Albania
+Andorra
+United Arab Emirates
+Argentina
+Armenia
+American Samoa
+Antarctica
+French Southern Territories
+Antigua and Barbuda
+Australia
+Austria
+Azerbaijan
+Burundi
+Belgium
+Benin
+Bonaire, Sint Eustatius and Saba
+Burkina Faso
+Bangladesh
+Bulgaria
+Bahrain
+Bahamas
+Bosnia and Herzegovina
+Saint Barthélemy
+Belarus
+Belize
+Bermuda
+Bolivia, Plurinational State of
+Brazil
+Barbados
+Brunei Darussalam
+Bhutan
+Bouvet Island
+Botswana
+Central African Republic
+Canada
+Cocos (Keeling) Islands
+Switzerland
+Chile
+China
+Côte d'Ivoire
+Cameroon
+Congo, The Democratic Republic of the
+Congo
+Cook Islands
+Colombia
+Comoros
+Cabo Verde
+Costa Rica
+Cuba
+Curaçao
+Christmas Island
+Cayman Islands
+Cyprus
+Czechia
+Germany
+Djibouti
+Dominica
+Denmark
+Dominican Republic
+Algeria
+Ecuador
+Egypt
+Eritrea
+Western Sahara
+Spain
+Estonia
+Ethiopia
+Finland
+Fiji
+Falkland Islands (Malvinas)
+France
+Faroe Islands
+Micronesia, Federated States of
+Gabon
+United Kingdom
+Georgia
+Guernsey
+Ghana
+Gibraltar
+Guinea
+Guadeloupe
+Gambia
+Guinea-Bissau
+Equatorial Guinea
+Greece
+Grenada
+Greenland
+Guatemala
+French Guiana
+Guam
+Guyana
+Hong Kong
+Heard Island and McDonald Islands
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Isle of Man
+India
+British Indian Ocean Territory
+Ireland
+Iran, Islamic Republic of
+Iraq
+Iceland
+Israel
+Italy
+Jamaica
+Jersey
+Jordan
+Japan
+Kazakhstan
+Kenya
+Kyrgyzstan
+Cambodia
+Kiribati
+Saint Kitts and Nevis
+Korea, Republic of
+Kuwait
+Lao People's Democratic Republic
+Lebanon
+Liberia
+Libya
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Macao
+Saint Martin (French part)
+Morocco
+Monaco
+Moldova, Republic of
+Madagascar
+Maldives
+Mexico
+Marshall Islands
+North Macedonia
+Mali
+Malta
+Myanmar
+Montenegro
+Mongolia
+Northern Mariana Islands
+Mozambique
+Mauritania
+Montserrat
+Martinique
+Mauritius
+Malawi
+Malaysia
+Mayotte
+Namibia
+New Caledonia
+Niger
+Norfolk Island
+Nigeria
+Nicaragua
+Niue
+Netherlands
+Norway
+Nepal
+Nauru
+New Zealand
+Oman
+Pakistan
+Panama
+Pitcairn
+Peru
+Philippines
+Palau
+Papua New Guinea
+Poland
+Puerto Rico
+Korea, Democratic People's Republic of
+Portugal
+Paraguay
+Palestine, State of
+French Polynesia
+Qatar
+Réunion
+Romania
+Russian Federation
+Rwanda
+Saudi Arabia
+Sudan
+Senegal
+Singapore
+South Georgia and the South Sandwich Islands
+Saint Helena, Ascension and Tristan da Cunha
+Svalbard and Jan Mayen
+Solomon Islands
+Sierra Leone
+El Salvador
+San Marino
+Somalia
+Saint Pierre and Miquelon
+Serbia
+South Sudan
+Sao Tome and Principe
+Suriname
+Slovakia
+Slovenia
+Sweden
+Eswatini
+Sint Maarten (Dutch part)
+Seychelles
+Syrian Arab Republic
+Turks and Caicos Islands
+Chad
+Togo
+Thailand
+Tajikistan
+Tokelau
+Turkmenistan
+Timor-Leste
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Tuvalu
+Taiwan, Province of China
+Tanzania, United Republic of
+Uganda
+Ukraine
+United States Minor Outlying Islands
+Uruguay
+United States
+Uzbekistan
+Holy See (Vatican City State)
+Saint Vincent and the Grenadines
+Venezuela, Bolivarian Republic of
+Virgin Islands, British
+Virgin Islands, U.S.
+Viet Nam
+Vanuatu
+Wallis and Futuna
+Samoa
+Yemen
+South Africa
+Zambia
+Zimbabwe
+
+captals
+
+capital do Aruba Oranjestad
+capital do Afghanistan Kabul
+capital do Angola Luanda
+capital do Anguilla The Valley
+capital do Åland Islands Não encontrada
+capital do Albania Tirana
+capital do Andorra Andorra la Vella
+capital do United Arab Emirates Abu Dhabi
+capital do Argentina Buenos Aires
+capital do Armenia Yerevan
+capital do American Samoa Pago Pago
+capital do Antarctica Não encontrada
+capital do French Southern Territories Port-aux-Francais
+capital do Antigua and Barbuda St. John's
+capital do Australia Canberra
+capital do Austria Vienna
+capital do Azerbaijan Baku
+capital do Burundi Gitega
+capital do Belgium Brussels
+capital do Benin Porto-Novo
+capital do Bonaire, Sint Eustatius and Saba Não encontrada
+capital do Burkina Faso Ouagadougou
+capital do Bangladesh Dhaka
+capital do Bulgaria Sofia
+capital do Bahrain Manama
+capital do Bahamas Nassau
+capital do Bosnia and Herzegovina Sarajevo
+capital do Saint Barthélemy Não encontrada
+capital do Belarus Minsk
+capital do Belize Belmopan
+capital do Bermuda Hamilton
+capital do Bolivia, Plurinational State of Não encontrada
+capital do Brazil Brasilia
+capital do Barbados Bridgetown
+capital do Brunei Darussalam Não encontrada
+capital do Bhutan Thimphu
+capital do Bouvet Island Não encontrada
+capital do Botswana Gaborone
+capital do Central African Republic Bangui
+capital do Canada Ottawa
+capital do Cocos (Keeling) Islands Não encontrada
+capital do Switzerland Bern
+capital do Chile Santiago
+capital do China Beijing
+capital do Côte d'Ivoire Não encontrada
+capital do Cameroon Yaounde
+capital do Congo, The Democratic Republic of the Não encontrada
+capital do Congo Não encontrada
+capital do Cook Islands Avarua
+capital do Colombia Bogota
+capital do Comoros Moroni
+capital do Cabo Verde Praia
+capital do Costa Rica San Jose
+capital do Cuba Havana
+capital do Curaçao Não encontrada
+capital do Christmas Island Flying Fish Cove
+capital do Cayman Islands George Town
+capital do Cyprus Nicosia
+capital do Czechia Prague
+capital do Germany Berlin
+capital do Djibouti Djibouti
+capital do Dominica Roseau
+capital do Denmark Copenhagen
+capital do Dominican Republic Santo Domingo
+capital do Algeria Algiers
+capital do Ecuador Quito
+capital do Egypt Cairo
+capital do Eritrea Asmara
+capital do Western Sahara El-Aaiun
+capital do Spain Madrid
+capital do Estonia Tallinn
+capital do Ethiopia Addis Ababa
+capital do Finland Helsinki
+capital do Fiji Suva
+capital do Falkland Islands (Malvinas) Não encontrada
+capital do France Paris
+capital do Faroe Islands Torshavn
+capital do Micronesia, Federated States of Não encontrada
+capital do Gabon Libreville
+capital do United Kingdom London
+capital do Georgia Tbilisi
+capital do Guernsey St Peter Port
+capital do Ghana Accra
+capital do Gibraltar Gibraltar
+capital do Guinea Conakry
+capital do Guadeloupe Basse-Terre
+capital do Gambia Banjul
+capital do Guinea-Bissau Bissau
+capital do Equatorial Guinea Malabo
+capital do Greece Athens
+capital do Grenada St. George's
+capital do Greenland Nuuk
+capital do Guatemala Guatemala City
+capital do French Guiana Cayenne
+capital do Guam Hagatna
+capital do Guyana Georgetown
+capital do Hong Kong Hong Kong
+capital do Heard Island and McDonald Islands Não encontrada
+capital do Honduras Tegucigalpa
+capital do Croatia Zagreb
+capital do Haiti Port-au-Prince
+capital do Hungary Budapest
+capital do Indonesia Jakarta
+capital do Isle of Man Douglas
+capital do India New Delhi
+capital do British Indian Ocean Territory Diego Garcia
+capital do Ireland Dublin
+capital do Iran, Islamic Republic of Não encontrada
+capital do Iraq Baghdad
+capital do Iceland Reykjavik
+capital do Israel Jerusalem
+capital do Italy Rome
+capital do Jamaica Kingston
+capital do Jersey Saint Helier
+capital do Jordan Amman
+capital do Japan Tokyo
+capital do Kazakhstan Nur-Sultan
+capital do Kenya Nairobi
+capital do Kyrgyzstan Bishkek
+capital do Cambodia Phnom Penh
+capital do Kiribati Tarawa
+capital do Saint Kitts and Nevis Basseterre
+capital do Korea, Republic of Não encontrada
+capital do Kuwait Kuwait City
+capital do Lao People's Democratic Republic Não encontrada
+capital do Lebanon Beirut
+capital do Liberia Monrovia
+capital do Libya Tripoli
+capital do Saint Lucia Castries
+capital do Liechtenstein Vaduz
+capital do Sri Lanka Colombo
+capital do Lesotho Maseru
+capital do Lithuania Vilnius
+capital do Luxembourg Luxembourg
+capital do Latvia Riga
+capital do Macao Macao
+capital do Saint Martin (French part) Não encontrada
+capital do Morocco Rabat
+capital do Monaco Monaco
+capital do Moldova, Republic of Não encontrada
+capital do Madagascar Antananarivo
+capital do Maldives Male
+capital do Mexico Mexico City
+capital do Marshall Islands Majuro
+capital do North Macedonia Skopje
+capital do Mali Bamako
+capital do Malta Valletta
+capital do Myanmar Nay Pyi Taw
+capital do Montenegro Podgorica
+capital do Mongolia Ulaanbaatar
+capital do Northern Mariana Islands Saipan
+capital do Mozambique Maputo
+capital do Mauritania Nouakchott
+capital do Montserrat Plymouth
+capital do Martinique Fort-de-France
+capital do Mauritius Port Louis
+capital do Malawi Lilongwe
+capital do Malaysia Kuala Lumpur
+capital do Mayotte Mamoudzou
+capital do Namibia Windhoek
+capital do New Caledonia Noumea
+capital do Niger Niamey
+capital do Norfolk Island Kingston
+capital do Nigeria Abuja
+capital do Nicaragua Managua
+capital do Niue Alofi
+capital do Netherlands Amsterdam
+capital do Norway Oslo
+capital do Nepal Kathmandu
+capital do Nauru Yaren
+capital do New Zealand Wellington
+capital do Oman Muscat
+capital do Pakistan Islamabad
+capital do Panama Panama City
+capital do Pitcairn Adamstown
+capital do Peru Lima
+capital do Philippines Manila
+capital do Palau Melekeok
+capital do Papua New Guinea Port Moresby
+capital do Poland Warsaw
+capital do Puerto Rico San Juan
+capital do Korea, Democratic People's Republic of Não encontrada
+capital do Portugal Lisbon
+capital do Paraguay Asuncion
+capital do Palestine, State of Não encontrada
+capital do French Polynesia Papeete
+capital do Qatar Doha
+capital do Réunion Não encontrada
+capital do Romania Bucharest
+capital do Russian Federation Não encontrada
+capital do Rwanda Kigali
+capital do Saudi Arabia Riyadh
+capital do Sudan Khartoum
+capital do Senegal Dakar
+capital do Singapore Singapore
+capital do South Georgia and the South Sandwich Islands Grytviken
+capital do Saint Helena, Ascension and Tristan da Cunha Não encontrada
+capital do Svalbard and Jan Mayen Longyearbyen
+capital do Solomon Islands Honiara
+capital do Sierra Leone Freetown
+capital do El Salvador San Salvador
+capital do San Marino San Marino
+capital do Somalia Mogadishu
+capital do Saint Pierre and Miquelon Saint-Pierre
+capital do Serbia Belgrade
+capital do South Sudan Juba
+capital do Sao Tome and Principe Sao Tome
+capital do Suriname Paramaribo
+capital do Slovakia Bratislava
+capital do Slovenia Ljubljana
+capital do Sweden Stockholm
+capital do Eswatini Mbabane
+capital do Sint Maarten (Dutch part) Não encontrada
+capital do Seychelles Victoria
+capital do Syrian Arab Republic Não encontrada
+capital do Turks and Caicos Islands Cockburn Town
+capital do Chad N'Djamena
+capital do Togo Lome
+capital do Thailand Bangkok
+capital do Tajikistan Dushanbe
+capital do Tokelau Não encontrada
+capital do Turkmenistan Ashgabat
+capital do Timor-Leste Não encontrada
+capital do Tonga Nuku'alofa
+capital do Trinidad and Tobago Port of Spain
+capital do Tunisia Tunis
+capital do Türkiye Não encontrada
+capital do Tuvalu Funafuti
+capital do Taiwan, Province of China Não encontrada
+capital do Tanzania, United Republic of Não encontrada
+capital do Uganda Kampala
+capital do Ukraine Kyiv
+capital do United States Minor Outlying Islands Não encontrada
+capital do Uruguay Montevideo
+capital do United States Washington
+capital do Uzbekistan Tashkent
+capital do Holy See (Vatican City State) Não encontrada
+capital do Saint Vincent and the Grenadines Kingstown
+capital do Venezuela, Bolivarian Republic of Não encontrada
+capital do Virgin Islands, British Não encontrada
+capital do Virgin Islands, U.S. Não encontrada
+capital do Viet Nam Não encontrada
+capital do Vanuatu Port Vila
+capital do Wallis and Futuna Mata Utu
+capital do Samoa Apia
+capital do Yemen Sanaa
+capital do South Africa Pretoria
+capital do Zambia Lusaka
+capital do Zimbabwe Harare
+
+Animals
+
+Actinella giraffensis
+Actinellopsis giraffensis
+Amaranthus capitatus
+Anthoceros monkeyanus
+Arbanitis horsemanae
+Auricula sheepmakeri
+Beara cornuta
+Beara dichromella
+Beara tortriciformis
+Beardiella cana
+Beardius aciculatus
+Beardius breviculus
+Beardius lingulatus
+Beardius phytophilus
+Beardius xylophilus
+Bearriverops ibexensis
+Camponotus horseshoetus
+Catamicrophyllum cat
+Cathucotyle cathuaui
+Catocala catei
+Cornus horseyi
+Cowania wheeleri
+Cowanomyia hillaryi
+Cowichania interstitialis
+Cowiedesmus eroticopodus
+Cowiella reticulata
+Cowiella undulata
+Cowiella verrucata
+Cowperia areolata
+Cowperia punctata
+Cowwarrella cylindrica
+Cyperus schottianus
+Deeringia amaranthoides
+Deeringia arvensis
+Deeringia humbertiana
+Deeringia mirabilis
+Deeringia perrieriana
+Deeringia polysperma
+Deeringia spicata
+Deeringia tetragyna
+Deeringothamnus rugelii
+Diaphoroceras buffaloense
+Dideoides tigerinus
+Dinomylostoma buffaloensis
+Doga macrogemma
+Doga pancheri
+Doggerella cohaerens
+Dogielina simnicaensis
+Dogielius rosumplicatus
+Dogielius strombicinms
+Dognina veltini
+Dogoia hierax
+Dogoia obscuripennis
+Dogoia unguiculata
+Elephantinosoma chnumi
+Elephantomyia chionopoda
+Elephantomyia chiriquiana
+Elephantomyia fumipes
+Elephantomyia fuscomarginata
+Elephantomyia garrigouana
+Elephantomyia krivosheinae
+Elephantomyia prima
+Elephantopus elongatus
+Elephantorrhiza elephantina
+Ellobium sheepmakeri
+Eublemma goateri
+Eunotia giraffensis
+Foxella mexicana
+Foxemys mechinorum
+Foxia cuna
+Foxia pirita
+Foxiides australianus
+Foxiphalus apache
+Foxiphalus golfensis
+Foxiphalus obtusidens
+Foxita cambrai
+Foxita curvicollis
+Genypterus tigerinus
+Goatapitigba moanha
+Goateria ambralis
+Goateria madegassalis
+Goateria mantasoalis
+Goateria mayottensis
+Goateria morombealis
+Goateria sambiranoalis
+Goateria sogalis
+Goateria viettealis
+Guatemoonops rhino
+Halozercon tigerek
+Hippocampus hippocampus
+Hippodonta kociolekii
+Hippoglossus hippoglossus
+Hippomedon hippolyte
+Hippomenella konnoi
+Hippothoa inflata
+Hippothoa meridionalis
+Hippothyris aganactete
+Holcus distachyos
+Hoplobatrachus tigerinus
+Hoplophorella buffaloensis
+Horsegullia horsegulliensis
+Horseshoeichthys armaserratus
+Hypogena cat
+Idris deergakombus
+Induratia tigerensis
+Lepidozia buffalona
+Lionedya mongolica
+Lionelita nuculoides
+Lionepha chintimini
+Lionepha kavanaughi
+Lionepha lindrothellus
+Lioniella petiti
+Lionotus gandolfi
+Lionotus grandis
+Lionychus basalis
+Lionychus chujoi
+Litophyton horseshoeensis
+Metaphycus hippo
+Nomia tigeri
+Pachyteria sheepmakeri
+Paramyiolia rhino
+Parapamea buffaloensis
+Peltonotus tigerus
+Piggotia theae
+Pigiopsis convergens
+Pigiopsis scotoides
+Pigmentiphaga daeguensis
+Pigritia basilarella
+Pigritia faux
+Pigritia fenyesella
+Pigritia laticapitella
+Pigritia latiscaptella
+Pigritia medeocris
+Pristerodon buffaloensis
+Pulmonaria daurica
+Pygmarrhopalites buffaloensis
+Recaredus tigeri
+Rhinobatos rhinobatos
+Rhinoecetes rhinoceros
+Rhinomacer rhinomacer
+Rhinomacer rufitarsis
+Rhinonyssus rhinolethrum
+Rhinoptilus africanus
+Rhinotrichella elegans
+Salopina horseshoensis
+Sciacharis buffaloensis
+Sparus sheepshead
+Stiphra giraffe
+Struthiola superba
+Tasmanoonops buffalo
+Teutamus rhino
+Therlinya horsemanae
+Trichomalus hippo
+Tympanogaster buffalo
+Veronica anarrhinum
+Wolfartius abundans
+Wolfella caternaultii
+Wolffia elongata
+Wolffia neglecta
+Wolffogebia phuketensis
+Wolfgangeuphaea ferweri
+Wolfgangiella franznegeri
+Wolfina oblongispora
+Wolfkosia loeffleri
+Wolfniana viridis
+Yorkiella horseguilliensis
+Ypsilonigaster tiger
+Yunnanilus tigerivinus
+Zebragryllus intermedius
+Zebragryllus nauta
+Zebragryllus wittoto
+Zebraodes lucidalis
+Zebrascia longicornis
+Zebrascia plurimaculata
+Zebrashapka vanhintei
+Zebrasoma flavescens
+Zebrasoma gemmatum
+Zebrasoma veliferum
